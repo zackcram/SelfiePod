@@ -27,8 +27,7 @@ img {
 
 h1 {
 	font-weight: 200;
-	margin-bottom: 50px;
-	text-align: center;
+	margin-bottom: 30px;
 	font-size: 3em;
 
 }
@@ -329,6 +328,7 @@ hr {
 	}
 	.lead {
 		margin-bottom: 40px;
+        
 	}
 	.ft {
 		margin-bottom: 16px;
